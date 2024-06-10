@@ -32,7 +32,7 @@ The project directory contains the following files:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/graph-data-pipeline.git
+    git clone [git@github.com:aayus97/sdm_property_graph.git]
     cd graph-data-pipeline
     ```
 
